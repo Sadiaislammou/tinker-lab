@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="98px" height="100px" viewBox="0 0 98 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-features-03</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="31" cy="31" r="31"></circle>
+        <filter x="-40.3%" y="-38.7%" width="206.5%" height="206.5%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="8" dy="9" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="9.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.180392157   0 0 0 0 0.239215686   0 0 0 0 0.28627451  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="icon-features-03" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="selling-pts-magenta" transform="translate(10.000000, 10.000000)">
+            <g id="Oval-3">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#FF5483" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <g id="icon/coding" transform="translate(13.000000, 13.000000)" stroke="#FFFFFF" stroke-width="2">
+                <rect id="Rectangle-4" x="7" y="10" width="22" height="17" rx="1"></rect>
+                <polyline id="Path-2" stroke-linejoin="round" points="11 15 13 17.5 11 20"></polyline>
+                <path d="M16.2692308,22 L22.7307692,22" id="Line" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

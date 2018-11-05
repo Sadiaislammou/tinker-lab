@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="61px" height="83px" viewBox="0 0 61 83" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>Finance</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="installments" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="about-modal" transform="translate(-752.000000, -397.000000)">
+            <g id="Group" transform="translate(430.000000, 398.000000)">
+                <g id="2" transform="translate(260.000000, 0.000000)">
+                    <g id="Finance" transform="translate(63.000000, 0.000000)">
+                        <g id="Group-103">
+                            <g id="Group-26" transform="translate(48.500000, 10.500000) rotate(-360.000000) translate(-48.500000, -10.500000) translate(38.000000, 0.000000)" stroke="#02B3E4" stroke-linecap="round" stroke-width="2">
+                                <path d="M10.4197614,20.8373021 C4.66579684,20.8373021 0,16.1732289 0,10.418651 C0,4.66185217 4.66579684,1.50793997e-12 10.4197614,1.50793997e-12 C16.1715053,1.50793997e-12 20.8373021,4.66185217 20.8373021,10.418651 C20.8373021,16.1732289 16.1715053,20.8373021 10.4197614,20.8373021 Z" id="Stroke-7" fill="#FFFFFF" stroke-linejoin="round"></path>
+                                <g id="Group-24" transform="translate(8.524351, 4.735750)">
+                                    <circle id="Oval-218" cx="1.89430019" cy="7.57720076" r="1.89430019"></circle>
+                                    <circle id="Oval-218-Copy" cx="1.89430019" cy="3.78860038" r="1.89430019"></circle>
+                                    <path d="M1.89430019,1.65751267 L1.89430019,0.236787524" id="Line"></path>
+                                    <path d="M1.89430019,10.8922261 L1.89430019,9.47150095" id="Line-Copy-42"></path>
+                                </g>
+                            </g>
+                            <g id="Group-28" transform="translate(0.000000, 14.000000)">
+                                <g id="Group-30" transform="translate(5.000000, 59.000000)" fill="#FFFFFF" stroke="#02B3E4" stroke-linejoin="round" stroke-width="2">
+                                    <path d="M39.9263508,0 C41.9462028,2.41238256 43,5.52751902 43,7.03685038 C37.4225853,8.54618164 28.8848023,7.8303873 28.8848023,7.8303873 L27.6849315,6.32105572" id="Path-1027"></path>
+                                    <path d="M12.2414193,0 C14.2612712,2.41238256 15.3150685,5.52751902 15.3150685,7.03685038 C9.73765379,8.54618164 1.19987081,7.8303873 1.19987081,7.8303873 L7.10542736e-15,6.32105572" id="Path-1027-Copy" transform="translate(7.657534, 4.000000) scale(-1, 1) translate(-7.657534, -4.000000) "></path>
+                                </g>
+                                <g id="Group-27" transform="translate(4.000000, 15.000000)" fill="#FFFFFF" stroke="#02B3E4" stroke-width="2">
+                                    <path d="M32.1612462,1.3601786 C43.0193587,-1.67083246 45.8462986,3.38857169 41.889898,9.17172559 C37.9334974,14.9548795 21.3031336,4.39118966 32.1612462,1.3601786 Z" id="Path-1023"></path>
+                                    <path d="M3.9125338,1.16863669 C14.7706464,-1.86237437 17.5975863,3.19702978 13.6411857,8.98018368 C9.68478504,14.7633376 -6.94557878,4.19964774 3.9125338,1.16863669 Z" id="Path-1023-Copy" transform="translate(7.815789, 5.471562) scale(-1, 1) translate(-7.815789, -5.471562) "></path>
+                                </g>
+                                <path d="M26,66 C40.3594035,66 52,54.3594035 52,40 C52,25.6405965 40.3594035,14 26,14 C20.7969401,14 15.9508432,15.5283404 11.8861522,18.1605783 C4.73310998,22.79279 0,30.8436564 0,40 C0,54.3594035 11.6405965,66 26,66 Z" id="Oval-220" stroke="#02B3E4" stroke-width="2" fill="#FFFFFF"></path>
+                                <circle id="Oval-220" stroke="#02B3E4" stroke-width="2" fill="#D3F5FF" cx="27" cy="44" r="10"></circle>
+                                <g id="Group-23" transform="translate(21.000000, 28.000000)" fill="#02B3E4">
+                                    <ellipse id="Oval-220-Copy" cx="1.11111111" cy="2.33065493" rx="1.11111111" ry="1.6"></ellipse>
+                                    <ellipse id="Oval-220-Copy-2" cx="8.61111111" cy="2.33065493" rx="1.11111111" ry="1.6"></ellipse>
+                                </g>
+                                <path d="M24,43 L24,45" id="Line" stroke="#02B3E4" stroke-width="2" stroke-linecap="round"></path>
+                                <path d="M29,43 L29,45" id="Line-Copy-44" stroke="#02B3E4" stroke-width="2" stroke-linecap="round"></path>
+                                <rect id="Rectangle-322" stroke="#02B3E4" stroke-width="2" fill="#D3F5FF" x="24" y="0" width="4" height="17" rx="1"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
